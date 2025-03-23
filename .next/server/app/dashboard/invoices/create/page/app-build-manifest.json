@@ -1,0 +1,20 @@
+{
+  "pages": {
+    "/dashboard/invoices/create/page": [
+      "static/chunks/[root of the server]__81e4402d._.css",
+      "static/chunks/45961_next_dist_afd48933._.js",
+      "static/chunks/app_layout_tsx_5ff71560._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_cb4d4643._.js",
+      "static/chunks/_756b38fc._.js",
+      "static/chunks/app_dashboard_layout_tsx_83b6731f._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_d9815aef._.js",
+      "static/chunks/45961_next_dist_compiled_react-dom-experimental_14e1078e._.js",
+      "static/chunks/45961_next_dist_compiled_2dd953c9._.js",
+      "static/chunks/45961_next_dist_client_c21751fe._.js",
+      "static/chunks/45961_next_dist_53e45599._.js",
+      "static/chunks/61dca_@swc_helpers_cjs_e27e0aca._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_1924cdd0._.js"
+    ]
+  }
+}
