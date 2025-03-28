@@ -467,7 +467,7 @@ function triggerUpdate(msg) {
 
 var { g: global, __dirname, m: module } = __turbopack_context__;
 {
-__turbopack_context__.r("[next]/entry/page-loader.ts { PAGE => \"[project]/node_modules/.pnpm/next@15.3.0-canary.18_react_a75e10f10003ab35c1e124c9edef631d/node_modules/next/error.js [client] (ecmascript)\" } [client] (ecmascript)");
+__turbopack_context__.r("[next]/entry/page-loader.ts { PAGE => \"[project]/node_modules/.pnpm/next@15.3.0-canary.24_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/next/error.js [client] (ecmascript)\" } [client] (ecmascript)");
 }}),
 }]);
 

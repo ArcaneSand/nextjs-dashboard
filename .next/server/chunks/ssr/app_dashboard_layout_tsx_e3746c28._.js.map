@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://G%3A/A2.%20TIME-Peerat/Coding/nextjs-dashboard/app/dashboard/layout.tsx"],"sourcesContent":["import SideNav from '@/app/ui/dashboard/sidenav';\r\nexport const experimental_ppr = true;\r\n \r\nexport default function Layout({ children }: { children: React.ReactNode }) {\r\n  return (\r\n    <div className=\"flex h-screen flex-col md:flex-row md:overflow-hidden\">\r\n \r\n      <div className=\"flex-grow p-6 md:overflow-y-auto md:p-12\">{children}</div>\r\n    </div>\r\n  );\r\n}"],"names":[],"mappings":";;;;;;AACO,MAAM,mBAAmB;AAEjB,SAAS,OAAO,EAAE,QAAQ,EAAiC;IACxE,qBACE,6XAAC;QAAI,WAAU;kBAEb,cAAA,6XAAC;YAAI,WAAU;sBAA4C;;;;;;;;;;;AAGjE","debugId":null}}]
+}
