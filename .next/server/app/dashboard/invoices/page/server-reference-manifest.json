@@ -11,7 +11,7 @@
         "app/dashboard/invoices/page": "rsc"
       }
     },
-    "401c928b60be306716ccbcb928637e38657c618556": {
+    "601c928b60be306716ccbcb928637e38657c618556": {
       "workers": {
         "app/dashboard/invoices/page": {
           "moduleId": "[project]/.next-internal/server/app/dashboard/invoices/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
